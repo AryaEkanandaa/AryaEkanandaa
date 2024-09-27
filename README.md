@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm ARYA EKANANDA!
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AryaEkanandaa?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AryaEkanandaa?style=social)
 
 I'm a student at **Udayana University** with a passion for programming and data science. Currently, I'm working on:
 

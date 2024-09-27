@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I'm ARYA EKANANDA!
 
-<!--
-**AryaEkanandaa/AryaEkanandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
 
-Here are some ideas to get you started:
+I'm a student at **Udayana University** with a passion for programming and data science. Currently, I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Image segmentation systems using Active Contour methods
+- 🤖 Developing a learning application for hearing-impaired children using sign language technology
+- 💻 Collaborating on various academic and personal projects
+
+### 🚀 Skills:
+- Programming Languages:  C, Java
+- Databases: MySQL, MongoDB
+
+
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaEkanandaa&show_icons=true&theme=radical)
+
+### 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/arya-ekananda-2a32a11a2)
+- [INSTAGRAM](https://www.instagram.com/aryaekananda?igsh=dGpldm1uMDNpcHdu)
